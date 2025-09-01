@@ -1,7 +1,8 @@
+import React from 'react'
 import { Container } from './styles'
 
 type Props = {
-  children: JSX.Element
+  children: React.JSX.Element
   title: string
 }
 
